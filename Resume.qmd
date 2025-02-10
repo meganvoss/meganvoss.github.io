@@ -1,0 +1,6 @@
+---
+title: "Resume"
+links:
+  - text: Link
+    href: Resume - Megan Voss.pdf
+---

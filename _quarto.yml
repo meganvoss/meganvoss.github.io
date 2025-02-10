@@ -1,13 +1,15 @@
 project:
   type: website
-
-website:
+  output-dir: docs
+  
+website: 
   title: "meganvoss.github.io"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Resume.qmd
+      - Projects.qmd
 
 format:
   html:

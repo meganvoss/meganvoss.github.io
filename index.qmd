@@ -1,11 +1,15 @@
 ---
-title: "meganvoss.github.io"
+title: "Megan's Website"
+image: IMG_3482.jpg
+about: 
+  template: marquee
+  image-shape: rectangle
+  image-width: 10em
+  links:
+  - text: linkedIn
+    href: //https://www.linkedin.com/in/megan-e-voss/
+  - text: Email
+    href: //megan.voss@colostate.edu
+  - text: Research Information
+  - text: Warner College of Natural Resources
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

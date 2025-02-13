@@ -13,9 +13,11 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
+    linkcolor: "#9045db"   
     css: styles.css
     toc: true
+    toc-location: right
 
 editor: visual
 

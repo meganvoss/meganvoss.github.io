@@ -1,6 +1,13 @@
 ---
 title: "Resume"
-links:
-  - text: Link
-    href: Resume - Megan Voss.pdf
+format: html
 ---
+
+### Resume
+
+```{=html}
+<object data="media/MeganVossResume.pdf" type="application/pdf" width="100%" height="100%" style="min-height: 100vh;">
+  <p>It appears you don't have a PDF plugin for this browser.
+  No worries... you can <a href="media/MeganVossResume.pdf">click here to        download the PDF file.</a></p>
+</object>
+```

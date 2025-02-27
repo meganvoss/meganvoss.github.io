@@ -10,6 +10,8 @@ about:
     href: https://www.linkedin.com/in/megan-e-voss/
   - text: Email
     href: mailto:megan.voss@colostate.edu
-  - text: Research Information
-  - text: Warner College of Natural Resources
+  - text: Github
+    href: https://https://github.com/meganvoss
 ---
+
+About me:

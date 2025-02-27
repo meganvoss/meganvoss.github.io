@@ -7,9 +7,9 @@ about:
   image-width: 10em
   links:
   - text: linkedIn
-    href: //https://www.linkedin.com/in/megan-e-voss/
+    href: https://www.linkedin.com/in/megan-e-voss/
   - text: Email
-    href: //megan.voss@colostate.edu
+    href: mailto:megan.voss@colostate.edu
   - text: Research Information
   - text: Warner College of Natural Resources
 ---
